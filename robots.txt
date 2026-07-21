@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-0h4bhh.brightfist.com/sitemap.xml
